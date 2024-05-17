@@ -8,13 +8,11 @@ User-friendly Interface: The application boasts an intuitive user interface buil
 Chat Import: Supports the import of chat export files from WhatsApp and Telegram.
 Comprehensive Analysis: Provides a comprehensive analysis of the chat, including message frequency, word clouds, sentiment analysis, most active participants, and more.
 Customization Options: Users can customize the analysis parameters based on their preferences, such as date range, participant filtering, etc.
-Export Reports: Allows users to export analysis reports in various formats (e.g., PDF, CSV) for further reference or sharing.
+
 ##Usage
 Visit the web application.
-Upload the exported chat file (in .txt or .csv format).
-Customize analysis options if desired.
-Click on "Generate Report" to view the analysis results.
-Export the report for further use or sharing.
+Upload the exported chat file (in .txt or .json format).
+
 ##Installation
 To run this application locally, follow these steps:
 
